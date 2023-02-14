@@ -3,10 +3,10 @@ layout: post
 title: "Arbeit mit Haskell"
 ---
 
-Hier werden die Grundlagen erläutert, um mit der Programmiersprache Haskell zuarbeiten.
+Hier werden die Grundlagen erläutert, um mit der Programmiersprache Haskell zu arbeiten.
 
 ## Build Tool
-Es wird ein build tool benötigt, um den build process zu managen. Es kann ausgewählt werden zwischen Cabal und Stack.
+Es wird ein Build Tool benötigt, um den Bauprozess zu managen. Es kann ausgewählt werden zwischen Cabal und Stack.
 
 Cabal Dokumentation: [https://cabal.readthedocs.io/en/stable/](https://cabal.readthedocs.io/en/stable/)
 
@@ -24,20 +24,20 @@ Die benötigten Tools, um mit Haskell arbeiten zu können, werden am leichtesten
 Dafür den Schritten auf der Installationsseite folgen. Dort kann auch ein Beispielvideo für die Installation unter Windows gefunden werden.
 Installationsseite: [https://www.haskell.org/ghcup/install/](https://www.haskell.org/ghcup/install/)
 
-Nach erfolgreicher Installation kann mit dem Befehl `ghcup list` angezeigt werden welche Versionen der einzelnen tools installiert sind.
+Nach erfolgreicher Installation kann mit dem Befehl `ghcup list` überprüft werden welche Versionen der einzelnen tools installiert sind.
 
 Weitere Informationen zum Gebrauch von GHCup kann im offiziellen User Guide gefunden werden.
 GHCup Guide: [https://www.haskell.org/ghcup/guide/](https://www.haskell.org/ghcup/guide/)
 
 ## Haskell Language Server
-Der Haskell Language Server (HLS) ist ein optionales Tool, das in eine IDE eingebunden werden muss und Funktionen bereitstellt wie code-completion, lint-suggestions, partial-compilation.
-HLS kann mit dem Befehl `ghcup install hls` installiert werden.
+Der Haskell Language Server (HLS) ist ein optionales Tool, das in eine IDE eingebunden werden muss und Funktionen bereitstellt wie Code completion, lint suggestions, partial compilation.
+HLS kann mit dem Befehl `ghcup install hls` installiert werden, falls dies bei der initial Installation von GHCup nicht getan wurde.
 
 ## VSCode Erweiterung / HLS Integration
-Es gibt eine VSCode Erweiterung von den Entwicklern des HLS um diesen in VSCode zu integrieren. 
+Es gibt eine VSCode Erweiterung namens Haskell von den Entwicklern des HLS um diesen in VSCode zu integrieren.
 Dafür den folgenden Schritten folgen:
 1. Sicherstellen HLS ist installiert, falls dies nicht zutrifft, dies mit `GHCup install hls` nachholen.
-2. Erweiterung installieren (in VSCode Ctrl + P und dann ext install haskell.haskell)
+2. Erweiterung installieren, dazu in VSCode `Ctrl + P` und dann `ext install haskell.haskell`
 
 ## Ormolu
 Ormolu ist ein Formatierer für Haskell Quellcode. Ormolu dient dem Einhalten eines einheitlichen Formatierungsstil.
@@ -56,9 +56,9 @@ https://github.com/tweag/ormolu
 ## HLint
 HLint ist ein Tool zum Vorschlagen von Code-Verbesserungen für Haskell.
 
-Da der HLS HLint unterstützt, kann HLint in VSCode mittels der VSCode Erweiterung genutzt werden, ohne es separat installieren zu müssen. 
+Unterstützung für HLint ist im HLS enthalten, dadurch kann HLint in VSCode mittels der VSCode Erweiterung genutzt werden, ohne es separat installieren zu müssen. 
 
-In VSCode werdene betroffene Stellen durch farbliche Unterstreichung markiert. Sie werden auch unter Probleme aufgelistet.
+In VSCode werden betroffene Stellen durch farbliche Unterstreichung markiert. Sie werden auch unter Probleme aufgelistet.
 
 Die Vorschläge können auf 3 Weisen in VSCode umgesetzt werden.
 1. Über die betroffene Stelle im Code hovern. Es öffnet sich ein Dialog, der das Problem zeigt. Auf schnelle Problembehandlung klicken. Den gewünschten Vorschlag auswählen.

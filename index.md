@@ -1,9 +1,14 @@
 ---
-layout: toc
-title: Tutorials
-custom_css: toc
+layout: post
+title: Welcome
 ---
 
-[Arbeit mit Haskell](haskell.md)
 
-[Arbeit mit Elm](elm.md)
+## Teaching
+
+[Allgemeine Informationen zur Arbeit mit Haskell](haskell.md)
+
+
+### Sommersemester 2023
+
+- [Deklarative Software-Technologien](2023/declarative-software-technologies.md)

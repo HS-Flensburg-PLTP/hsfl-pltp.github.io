@@ -1,4 +1,4 @@
-title: Programming Languages and Theory of Programming
+title: Programmiersprachen und Theorie der Programmierung
 author:
   name: Jan Christiansen
   email: jan.christiansen@hs-flensburg.de
@@ -9,3 +9,4 @@ markdown: kramdown
 remote_theme: jekyll/minima
 header_pages:
   - index.md
+  - about.md

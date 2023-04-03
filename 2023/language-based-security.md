@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Language-based Security"
-date: 2023-03-27
+date: 2023-04-03
 ---
 
 
@@ -20,4 +20,8 @@ Inhalte der Abschnitte [_Preface_](https://softwarefoundations.cis.upenn.edu/lf-
 
 ## 2. Vorlesung
 
-Inhalte der Abschnitte [_Proof by Simplification_](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html#lab34), [_Proof by Rewriting_](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html#lab35), [_Proof by Case Analysis](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html#lab38) und [_Unfolding Definitions_](https://softwarefoundations.cis.upenn.edu/lf-current/Tactics.html#lab172)
+Inhalte der Abschnitte [_Proof by Simplification_](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html#lab34), [_Proof by Rewriting_](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html#lab35), [_Proof by Case Analysis_](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html#lab38) und [_Unfolding Definitions_](https://softwarefoundations.cis.upenn.edu/lf-current/Tactics.html#lab172)
+
+## 3. Vorlesung
+
+Inhalte der Abschnitte [_Proof by Induction_](https://softwarefoundations.cis.upenn.edu/lf-current/Induction.html#lab61), [_Lists of Numbers_](https://softwarefoundations.cis.upenn.edu/lf-current/Lists.html#lab85) und [_Reasoning About Lists_](https://softwarefoundations.cis.upenn.edu/lf-current/Lists.html#lab97)

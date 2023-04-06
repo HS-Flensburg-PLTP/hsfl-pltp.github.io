@@ -93,6 +93,19 @@ Auf Basis dieses Prototyps kann die Idee später weiter verfeinert werden, zum B
 Die Förderung [Kickstart](https://realisiere-deine-idee.de/kickstart) im Projekt [TeStUp](https://realisiere-deine-idee.de) bietet zum Beispiel eine finanzielle Unterstützung bei der Umsetzung eines Prototyps zur Erprobung einer Idee.
 
 
+#### Konkrete Projekte
+
+##### Prototyp für Raumbuchungen
+
+Es soll ein Prototyp für ein System zur Buchung von Räumen entwickelt werden.
+Dieser erste Prototyp funktioniert ohne Accounts, das heißt, jeder kann einen Raum zu einer bestimmten Zeit buchen oder wieder freigeben.
+Wichtig ist ein übersichtliches Interface zur Buchung eines Raumes und zur Prüfung, welche Räume zu bestimmten Zeiten frei sind.
+Die vorhandenen Räume werden in der Anwendung hart kodiert.
+Es muss ein sehr einfaches Backend entwickelt werden, das speichert, ob ein Raum belegt ist.
+Hierzu kann zum Beispiel [Supabase](https://supabase.com) genutzt werden.
+Als erster Anwendungsfall soll es möglich sein, über dieses System die Software Factory zu buchen.
+
+
 ### Technische Aspekte
 
 In diesem Abschnitt werden ein paar eher technische Aspekte der Abschlussprojekte diskutiert, die berücksichtigt werden sollten.

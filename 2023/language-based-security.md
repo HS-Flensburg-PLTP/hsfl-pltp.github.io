@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Language-based Security"
-date: 2023-04-14
+date: 2023-04-17
 ---
 
 
@@ -15,11 +15,13 @@ Im [github-Projekt](https://github.com/jan-christiansen/Language-based-Security)
 ## Vorlesungen
 
 Unter <https://github.com/HS-Flensburg-LBS/Language-based-Security> finden Sie die Coq-Skripte, die wir in der Vorlesung zusammen entwickelt haben.
+In der Vorlesung werden Kapitel des Buchs [_Software Foundations - Volume 1_](https://softwarefoundations.cis.upenn.edu/current/lf-current/index.html) besprochen.
+Hier wird aufgelistet, welche Kapitel jeweils besprochen wurden.
 
 
 ### 1. Vorlesung
 
-Inhalte der Abschnitte [_Preface_](https://softwarefoundations.cis.upenn.edu/lf-current/Preface.html) und [_Data and Functions_](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html#lab20) des Buchs [_Software Foundations - Volume 1_](https://softwarefoundations.cis.upenn.edu/current/lf-current/index.html)
+Inhalte der Abschnitte [_Preface_](https://softwarefoundations.cis.upenn.edu/lf-current/Preface.html) und [_Data and Functions_](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html#lab20)
 
 ### 2. Vorlesung
 
@@ -28,6 +30,16 @@ Inhalte der Abschnitte [_Proof by Simplification_](https://softwarefoundations.c
 ### 3. Vorlesung
 
 Inhalte der Abschnitte [_Proof by Induction_](https://softwarefoundations.cis.upenn.edu/lf-current/Induction.html#lab61), [_Lists of Numbers_](https://softwarefoundations.cis.upenn.edu/lf-current/Lists.html#lab85) und [_Reasoning About Lists_](https://softwarefoundations.cis.upenn.edu/lf-current/Lists.html#lab97)
+
+### 4. Vorlesung
+
+Inhalte der Abschnitte [_Polymorphism_](https://softwarefoundations.cis.upenn.edu/lf-current/Poly.html#lab118), [_Functions as Data_](https://softwarefoundations.cis.upenn.edu/lf-current/Poly.html#lab133), [_The `apply` Tactic_](https://softwarefoundations.cis.upenn.edu/lf-current/Tactics.html#lab157) und [_The `apply with` Tactic_](https://softwarefoundations.cis.upenn.edu/lf-current/Tactics.html#lab161)
+
+
+<!-- ## Übungen
+
+Die Übungen bestehen aus Aufgaben, die  -->
+
 
 
 ## Verwendung von Coq

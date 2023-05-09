@@ -35,6 +35,14 @@ Inhalte der Abschnitte [_Proof by Induction_](https://softwarefoundations.cis.up
 
 Inhalte der Abschnitte [_Polymorphism_](https://softwarefoundations.cis.upenn.edu/lf-current/Poly.html#lab118), [_Functions as Data_](https://softwarefoundations.cis.upenn.edu/lf-current/Poly.html#lab133), [_The `apply` Tactic_](https://softwarefoundations.cis.upenn.edu/lf-current/Tactics.html#lab157) und [_The `apply with` Tactic_](https://softwarefoundations.cis.upenn.edu/lf-current/Tactics.html#lab161)
 
+### 5. Vorlesung
+
+Inhalte der Unterabschnitte _Conjunction_, _Disjunction_ und _Falsehood and Negation_ des Abschnitts [_Logical Connectives_](https://softwarefoundations.cis.upenn.edu/lf-current/Logic.html#lab184)
+
+### 6. Vorlesung
+
+Inhalte der Unterabschnitte _Logical Equivalence_ und _Existential Quantification_ des Abschnitts [_Logical Connectives_](https://softwarefoundations.cis.upenn.edu/lf-current/Logic.html#lab184) und des Abschnitts [_Programming with Propositions_](https://softwarefoundations.cis.upenn.edu/lf-current/Logic.html#lab184)
+
 
 <!-- ## Übungen
 

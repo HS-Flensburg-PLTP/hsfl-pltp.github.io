@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deklarative Software-Technologien"
-date: 2023-02-23
+date: 2023-05-24
 ---
 
 
@@ -104,6 +104,13 @@ Die vorhandenen Räume werden in der Anwendung hart kodiert.
 Es muss ein sehr einfaches Backend entwickelt werden, das speichert, ob ein Raum belegt ist.
 Hierzu kann zum Beispiel [Supabase](https://supabase.com) genutzt werden.
 Als erster Anwendungsfall soll es möglich sein, über dieses System die Software Factory zu buchen.
+
+##### Erfassung von Wunschterminen
+
+In diesem Projekt soll ein Frontend entwickelt werden, das genutzt werden kann, um Terminwünsche, zum Beispiel für Lehrveranstaltungen zu erfassen.
+Dazu bietet die Anwendung eine einfache Oberfläche, auf der Präferenzen für eine fest-kodierte Liste von Optionen vergeben werden können.
+Das heißt, es können drei der Optionen ausgewählt und jeweils mit einer Präferenz von `1` bis `3` versehen werden.
+Die gesammelten Präferenzen sollen unter einer Route, die unter einer festen zufälligen Zeichenkette erreichbar ist, als CSV-Datei heruntergeladen werden können.
 
 
 ### Technische Aspekte

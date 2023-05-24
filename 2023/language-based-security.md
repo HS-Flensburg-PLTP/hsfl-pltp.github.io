@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Language-based Security"
-date: 2023-04-17
+date: 2023-05-24
 ---
 
 
@@ -42,6 +42,14 @@ Inhalte der Unterabschnitte _Conjunction_, _Disjunction_ und _Falsehood and Nega
 ### 6. Vorlesung
 
 Inhalte der Unterabschnitte _Logical Equivalence_ und _Existential Quantification_ des Abschnitts [_Logical Connectives_](https://softwarefoundations.cis.upenn.edu/lf-current/Logic.html#lab184) und des Abschnitts [_Programming with Propositions_](https://softwarefoundations.cis.upenn.edu/lf-current/Logic.html#lab184)
+
+### 7. Vorlesung
+
+Inhalte der Abschnitte [_Propositions vs. Booleans_](https://softwarefoundations.cis.upenn.edu/lf-current/Logic.html#lab217) und [_Working with Decidable Properties_](https://softwarefoundations.cis.upenn.edu/lf-current/Logic.html#lab218)
+
+### 8. Vorlesung
+
+Inhalte des Abschnitts [_Inductively Defined Propositions_](https://softwarefoundations.cis.upenn.edu/lf-current/IndProp.html)
 
 
 <!-- ## Übungen

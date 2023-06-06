@@ -51,6 +51,10 @@ Inhalte der Abschnitte [_Propositions vs. Booleans_](https://softwarefoundations
 
 Inhalte des Abschnitts [_Inductively Defined Propositions_](https://softwarefoundations.cis.upenn.edu/lf-current/IndProp.html)
 
+### 9. Vorlesung
+
+Inhalte des Abschnitts [Kryptoschemata](https://hs-flensburg-lbs.github.io/comp.html)
+
 
 <!-- ## Übungen
 

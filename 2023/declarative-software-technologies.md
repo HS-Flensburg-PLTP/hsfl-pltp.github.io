@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deklarative Software-Technologien"
-date: 2023-05-24
+date: 2023-06-09
 ---
 
 
@@ -111,6 +111,14 @@ In diesem Projekt soll ein Frontend entwickelt werden, das genutzt werden kann, 
 Dazu bietet die Anwendung eine einfache Oberfläche, auf der Präferenzen für eine fest-kodierte Liste von Optionen vergeben werden können.
 Das heißt, es können drei der Optionen ausgewählt und jeweils mit einer Präferenz von `1` bis `3` versehen werden.
 Die gesammelten Präferenzen sollen unter einer Route, die unter einer festen zufälligen Zeichenkette erreichbar ist, als CSV-Datei heruntergeladen werden können.
+
+##### Prototyp für das Matchmaking im Start-up-Bereich
+
+In diesem Projekt soll eine einfache Suche/Biete-Plattform umgesetzt werden.
+Die Plattform soll speziell auf Start-ups zugeschnitten sein.
+Zum Beispiel suchen Gründer\*innen häufig Mitglieder mit einer ergänzenden Expertise.
+Außerdem gibt es Personen, die vielleicht eine Gründungsidee oder sogar einen Prototyp zur Verfügung haben, aber gar kein Interesse, selbst etwas zu gründen.
+Es soll eine einfache Plattform entwickelt werden, auf der solche Angebote und Gesuche platziert werden können.
 
 
 ### Technische Aspekte
